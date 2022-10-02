@@ -7,5 +7,10 @@
 3. Run `pip install pandas ics && python3 main.py` and get your `sample.ics` file.
 4. Upload the ICS file to your calendar.
 
+## Column Formats
 
+- `Weeks`: Comma separated week ranges and weeks, where a week range from `a` to `b` inclusive is represented by `a-b`.
+- `Day`: Monday, Tuesday, Wednesday, Thursday, Friday.
+- `Start`, `End`: 24-h time with format `HH:MM` or `H:MM`.
+- Other columns are strings.
 
