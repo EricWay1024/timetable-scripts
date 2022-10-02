@@ -1,0 +1,300 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:MATH/4045/01/L/01/01 Wattis JAD Prof nan
+DTEND:20221007T120000
+LOCATION:Pope C15
+DTSTART:20221007T110000
+SUMMARY:Mathematics Group Projects - Lecture
+UID:0f19d444-085d-4f32-8961-fa4d20199901@0f19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/3003/01/L/01/01 Kurzke\, MW Dr  
+DTEND:20221003T130000
+LOCATION:Maths A17
+DTSTART:20221003T110000
+SUMMARY:Metric and Topological Spaces - Lecture
+UID:9979c02f-acaf-40be-a8f4-445f4842c39a@9979.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/4045/01/W/01/03 Adesso\, G Prof\,Bolton\, K\,Ball\, FG Professor\,KhudaBuksh\, W Dr\,Leisen\, F Professor\,Kypraios\, T Professor\,Pumpluen S Dr\,Nicks R Dr\,Stromberg F Dr\,Wattis JAD Prof\,Tufarelli T Dr\,Wicks T Dr nan
+DTEND:20221013T180000
+LOCATION:Psyc A17
+DTSTART:20221013T160000
+SUMMARY:Mathematics Group Projects - Workshop
+UID:b8c6b8bc-e355-4478-aaaa-f6f5eaba3234@b8c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/3003/01/L/01/01 Kurzke\, MW Dr  
+DTEND:20221017T130000
+LOCATION:Maths A17
+DTSTART:20221017T110000
+SUMMARY:Metric and Topological Spaces - Lecture
+UID:e3586f87-a0c6-4cef-b480-a22d09d266f5@e358.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/3003/01/L/01/01 Kurzke\, MW Dr  
+DTEND:20221114T130000
+LOCATION:Maths A17
+DTSTART:20221114T110000
+SUMMARY:Metric and Topological Spaces - Lecture
+UID:fbb3a823-9de5-433d-99c8-6d6ebc84d0f5@fbb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/3003/01/L/02/01 Kurzke\, MW Dr  
+DTEND:20221027T170000
+LOCATION:Chemistry C15
+DTSTART:20221027T150000
+SUMMARY:Metric and Topological Spaces - Lecture
+UID:51786850-d8a1-4c81-afff-9d6f8aa905aa@5178.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/3003/01/L/01/01 Kurzke\, MW Dr  
+DTEND:20221205T130000
+LOCATION:Maths A17
+DTSTART:20221205T110000
+SUMMARY:Metric and Topological Spaces - Lecture
+UID:93c8c4ef-1a49-4b57-b26f-16761fcff4e0@93c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/4045/01/L/01/01 Wattis JAD Prof nan
+DTEND:20221014T120000
+LOCATION:Pope C15
+DTSTART:20221014T110000
+SUMMARY:Mathematics Group Projects - Lecture
+UID:0d8e7b12-3408-4531-9ee1-fc514c2aa85f@0d8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/3003/01/L/02/01 Kurzke\, MW Dr  
+DTEND:20221208T170000
+LOCATION:Chemistry C15
+DTSTART:20221208T150000
+SUMMARY:Metric and Topological Spaces - Lecture
+UID:03cdf910-6bd1-4449-a836-47305e9243f8@03cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/4045/01/W/01/03 Adesso\, G Prof\,Bolton\, K\,Ball\, FG Professor\,KhudaBuksh\, W Dr\,Leisen\, F Professor\,Kypraios\, T Professor\,Pumpluen S Dr\,Nicks R Dr\,Stromberg F Dr\,Wattis JAD Prof\,Tufarelli T Dr\,Wicks T Dr nan
+DTEND:20221117T180000
+LOCATION:Psyc A17
+DTSTART:20221117T160000
+SUMMARY:Mathematics Group Projects - Workshop
+UID:cdce5c7d-540c-4d1c-9e55-ba138e3dc499@cdce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/4045/01/W/01/03 Adesso\, G Prof\,Bolton\, K\,Ball\, FG Professor\,KhudaBuksh\, W Dr\,Leisen\, F Professor\,Kypraios\, T Professor\,Pumpluen S Dr\,Nicks R Dr\,Stromberg F Dr\,Wattis JAD Prof\,Tufarelli T Dr\,Wicks T Dr nan
+DTEND:20221201T180000
+LOCATION:Psyc A17
+DTSTART:20221201T160000
+SUMMARY:Mathematics Group Projects - Workshop
+UID:d6903ad0-9831-4d8f-9a79-5741b96265bf@d690.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/4045/01/W/01/03 Adesso\, G Prof\,Bolton\, K\,Ball\, FG Professor\,KhudaBuksh\, W Dr\,Leisen\, F Professor\,Kypraios\, T Professor\,Pumpluen S Dr\,Nicks R Dr\,Stromberg F Dr\,Wattis JAD Prof\,Tufarelli T Dr\,Wicks T Dr nan
+DTEND:20221215T180000
+LOCATION:Psyc A17
+DTSTART:20221215T160000
+SUMMARY:Mathematics Group Projects - Workshop
+UID:f24879d8-0b8a-4ad8-97cd-b11cb644866c@f248.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/3003/01/L/01/01 Kurzke\, MW Dr  
+DTEND:20221031T130000
+LOCATION:Maths A17
+DTSTART:20221031T110000
+SUMMARY:Metric and Topological Spaces - Lecture
+UID:99ebe6a5-dc16-4db6-8614-e6ddd99afd94@99eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/3003/01/L/02/01 Kurzke\, MW Dr  
+DTEND:20221110T170000
+LOCATION:Chemistry C15
+DTSTART:20221110T150000
+SUMMARY:Metric and Topological Spaces - Lecture
+UID:8e044f86-95f3-4eaf-8d07-5c0fa7449650@8e04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/4045/01/W/02/05 Ball\, FG Professor\,Adesso\, G Prof\,KhudaBuksh\, W Dr\,Bolton\, K\,Leisen\, F Professor\,Kypraios\, T Professor\,Nicks R Dr\,Pumpluen S Dr\,Stromberg F Dr\,Tufarelli T Dr\,Wattis JAD Prof\,Wicks T Dr nan
+DTEND:20221027T180000
+LOCATION:Psyc A17
+DTSTART:20221027T150000
+SUMMARY:Mathematics Group Projects - Workshop
+UID:ebbba902-c24a-4ebf-bf0e-744cfdc7203b@ebbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/4045/01/W/01/03 Adesso\, G Prof\,Bolton\, K\,Ball\, FG Professor\,KhudaBuksh\, W Dr\,Leisen\, F Professor\,Kypraios\, T Professor\,Pumpluen S Dr\,Nicks R Dr\,Stromberg F Dr\,Wattis JAD Prof\,Tufarelli T Dr\,Wicks T Dr nan
+DTEND:20221124T180000
+LOCATION:Psyc A17
+DTSTART:20221124T160000
+SUMMARY:Mathematics Group Projects - Workshop
+UID:c8237803-7bf7-40a0-aeab-2ff3c15ae1ed@c823.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/3003/01/L/02/01 Kurzke\, MW Dr  
+DTEND:20221201T170000
+LOCATION:Chemistry C15
+DTSTART:20221201T150000
+SUMMARY:Metric and Topological Spaces - Lecture
+UID:c0d884e6-56e3-4bfc-98fe-346966e0c816@c0d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/3003/01/L/01/01 Kurzke\, MW Dr  
+DTEND:20221128T130000
+LOCATION:Maths A17
+DTSTART:20221128T110000
+SUMMARY:Metric and Topological Spaces - Lecture
+UID:fc80e3e8-36c1-4ff8-be8c-a06a82189f1e@fc80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/3003/01/L/01/01 Kurzke\, MW Dr  
+DTEND:20221024T130000
+LOCATION:Maths A17
+DTSTART:20221024T110000
+SUMMARY:Metric and Topological Spaces - Lecture
+UID:1375efdc-31a2-4214-820a-232bc4322074@1375.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/3003/01/L/01/01 Kurzke\, MW Dr  
+DTEND:20221212T130000
+LOCATION:Maths A17
+DTSTART:20221212T110000
+SUMMARY:Metric and Topological Spaces - Lecture
+UID:373d8470-e8dd-4aa9-b2dc-ac4a5551ea35@373d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/3003/01/L/02/01 Kurzke\, MW Dr  
+DTEND:20221215T170000
+LOCATION:Chemistry C15
+DTSTART:20221215T150000
+SUMMARY:Metric and Topological Spaces - Lecture
+UID:50e0ea25-67e5-4f5a-b7f1-d03000edc3b3@50e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/4045/01/W/01/03 Adesso\, G Prof\,Bolton\, K\,Ball\, FG Professor\,KhudaBuksh\, W Dr\,Leisen\, F Professor\,Kypraios\, T Professor\,Pumpluen S Dr\,Nicks R Dr\,Stromberg F Dr\,Wattis JAD Prof\,Tufarelli T Dr\,Wicks T Dr nan
+DTEND:20220929T180000
+LOCATION:Psyc A17
+DTSTART:20220929T160000
+SUMMARY:Mathematics Group Projects - Workshop
+UID:08ece9b3-7844-45c1-83af-a9a0fed46716@08ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/4045/01/W/01/03 Adesso\, G Prof\,Bolton\, K\,Ball\, FG Professor\,KhudaBuksh\, W Dr\,Leisen\, F Professor\,Kypraios\, T Professor\,Pumpluen S Dr\,Nicks R Dr\,Stromberg F Dr\,Wattis JAD Prof\,Tufarelli T Dr\,Wicks T Dr nan
+DTEND:20221020T180000
+LOCATION:Psyc A17
+DTSTART:20221020T160000
+SUMMARY:Mathematics Group Projects - Workshop
+UID:9b7a368f-90a8-4ae3-9c86-5a3e23daa4a7@9b7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/3003/01/L/01/01 Kurzke\, MW Dr  
+DTEND:20221010T130000
+LOCATION:Maths A17
+DTSTART:20221010T110000
+SUMMARY:Metric and Topological Spaces - Lecture
+UID:536496bd-e93c-421d-88d8-9600593b189f@5364.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/3003/01/L/02/01 Kurzke\, MW Dr  
+DTEND:20221020T170000
+LOCATION:Chemistry C15
+DTSTART:20221020T150000
+SUMMARY:Metric and Topological Spaces - Lecture
+UID:f08eee18-dad0-4075-92b5-1fddb0894904@f08e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/3003/01/L/01/01 Kurzke\, MW Dr  
+DTEND:20221107T130000
+LOCATION:Maths A17
+DTSTART:20221107T110000
+SUMMARY:Metric and Topological Spaces - Lecture
+UID:b4545138-7fa8-4e2e-b63c-6d7b66505f7a@b454.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/4045/01/W/01/03 Adesso\, G Prof\,Bolton\, K\,Ball\, FG Professor\,KhudaBuksh\, W Dr\,Leisen\, F Professor\,Kypraios\, T Professor\,Pumpluen S Dr\,Nicks R Dr\,Stromberg F Dr\,Wattis JAD Prof\,Tufarelli T Dr\,Wicks T Dr nan
+DTEND:20221103T180000
+LOCATION:Psyc A17
+DTSTART:20221103T160000
+SUMMARY:Mathematics Group Projects - Workshop
+UID:55b741ce-d9ea-450a-8b7c-eb35c6691592@55b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/4045/01/L/01/01 Wattis JAD Prof nan
+DTEND:20221104T120000
+LOCATION:Pope C15
+DTSTART:20221104T110000
+SUMMARY:Mathematics Group Projects - Lecture
+UID:59dba74a-8550-4ff5-b163-247f90dc7a0a@59db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/3003/01/L/02/01 Kurzke\, MW Dr  
+DTEND:20221013T170000
+LOCATION:Chemistry C15
+DTSTART:20221013T150000
+SUMMARY:Metric and Topological Spaces - Lecture
+UID:3982ad9d-cdae-4bee-afc1-ff4dd28a371c@3982.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/3003/01/L/02/01 Kurzke\, MW Dr  
+DTEND:20221006T170000
+LOCATION:Chemistry C15
+DTSTART:20221006T150000
+SUMMARY:Metric and Topological Spaces - Lecture
+UID:de75edda-a7bb-45ff-9627-8d2672347733@de75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/4045/01/W/02/05 Ball\, FG Professor\,Adesso\, G Prof\,KhudaBuksh\, W Dr\,Bolton\, K\,Leisen\, F Professor\,Kypraios\, T Professor\,Nicks R Dr\,Pumpluen S Dr\,Stromberg F Dr\,Tufarelli T Dr\,Wattis JAD Prof\,Wicks T Dr nan
+DTEND:20221208T180000
+LOCATION:Psyc A17
+DTSTART:20221208T150000
+SUMMARY:Mathematics Group Projects - Workshop
+UID:51c6241f-8080-4800-a05a-4f034e3fd602@51c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/3003/01/L/02/01 Kurzke\, MW Dr  
+DTEND:20221124T170000
+LOCATION:Chemistry C15
+DTSTART:20221124T150000
+SUMMARY:Metric and Topological Spaces - Lecture
+UID:94290175-e45e-4ae9-b4f5-a441781aa935@9429.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/3003/01/L/01/01 Kurzke\, MW Dr  
+DTEND:20221121T130000
+LOCATION:Maths A17
+DTSTART:20221121T110000
+SUMMARY:Metric and Topological Spaces - Lecture
+UID:4b5e1b9d-66e6-485d-8a89-7b77afc70e7a@4b5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/3003/01/L/02/01 Kurzke\, MW Dr  
+DTEND:20221103T170000
+LOCATION:Chemistry C15
+DTSTART:20221103T150000
+SUMMARY:Metric and Topological Spaces - Lecture
+UID:d72dda34-5105-47ff-96bc-a2084ee53cf8@d72d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/4045/01/W/01/03 Adesso\, G Prof\,Bolton\, K\,Ball\, FG Professor\,KhudaBuksh\, W Dr\,Leisen\, F Professor\,Kypraios\, T Professor\,Pumpluen S Dr\,Nicks R Dr\,Stromberg F Dr\,Wattis JAD Prof\,Tufarelli T Dr\,Wicks T Dr nan
+DTEND:20221110T180000
+LOCATION:Psyc A17
+DTSTART:20221110T160000
+SUMMARY:Mathematics Group Projects - Workshop
+UID:fc4d496f-b01a-4c8c-b00b-f6a69b79064c@fc4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/4045/01/W/01/03 Adesso\, G Prof\,Bolton\, K\,Ball\, FG Professor\,KhudaBuksh\, W Dr\,Leisen\, F Professor\,Kypraios\, T Professor\,Pumpluen S Dr\,Nicks R Dr\,Stromberg F Dr\,Wattis JAD Prof\,Tufarelli T Dr\,Wicks T Dr nan
+DTEND:20221006T180000
+LOCATION:Psyc A17
+DTSTART:20221006T160000
+SUMMARY:Mathematics Group Projects - Workshop
+UID:d15d6bb2-be7c-467f-b9e1-67abb176971f@d15d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MATH/3003/01/L/02/01 Kurzke\, MW Dr  
+DTEND:20221117T170000
+LOCATION:Chemistry C15
+DTSTART:20221117T150000
+SUMMARY:Metric and Topological Spaces - Lecture
+UID:e2e6334e-e504-4797-9766-f01f92dc4a87@e2e6.org
+END:VEVENT
+END:VCALENDAR
