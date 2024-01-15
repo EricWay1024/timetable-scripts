@@ -9,8 +9,15 @@
 
 ## Column Formats
 
-- `Weeks`: Comma separated week ranges and weeks, where a week range from `a` to `b` inclusive is represented by `a-b`.
+- `Weeks`: Comma separated week ranges and weeks, where a week range from `a` to `b` inclusive is represented by `a-b`. E.g. `1-4,6,8` means weeks `1,2,3,4,6,8`.
 - `Day`: Monday, Tuesday, Wednesday, Thursday, Friday.
 - `Start`, `End`: 24-h time with format `HH:MM` or `H:MM`.
-- Other columns are strings.
+- Other columns are strings/texts.
 
+## Unimportant Remarks
+
+I worked for a long time on timetabling services (in particular, a web-app named uCourse) when I was in University of Nottingham Ningbo China. The idea of uCourse was to use a web scraper to fetch individual timetables from a university service so that each student can get their own ICS file with just one click. However, in practice the situation can often be as messy as it gets, as people might change their courses during the term and course information might also be updated. There is nothing more frustrating than running to a classroom according to your timetable only to find no one there because the actual venue has been changed but not updated in the timetable cache when you exported the ICS file, and ironically this once happened to myself. 
+
+At the end of the day I realised that if you would spend the time taking the actual courses, then it should not be a problem for you to spend less than twenty minutes editing an Excel spreadsheet containing the class information yourself. As long as this 'excel2ics' programme handles weekly repetition of classes well, it should be efficient enough. This also becomes a universal (category-theoretically speaking) script that is applicable for any student taking weekly repetitive classes. ~~Even better, you can't blame anyone else when the information is wrong because you typed it yourself.~~
+
+I definite have had the idea of making this stuff into a web app, but it appears to me that this would require implementing an online spreadsheet editing interface (much like Google Sheets), which is simply a waste of time as you should be able to edit things conveniently enough on Microsoft Excel or, yes, Google Sheets. I also (perhas wrongly) believe most people already have Python installed on their machine these days, so that's it. This thing should be as simple as this.
